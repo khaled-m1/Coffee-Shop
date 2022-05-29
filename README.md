@@ -1,5 +1,5 @@
 # Coffee-Shop
-Project Coffee Software 
+Project Coffee Software, 
 We uses to bulid the project
 SpringBoot and Java language
 postgresql with Docker
